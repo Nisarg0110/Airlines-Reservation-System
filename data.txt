@@ -4,9 +4,9 @@ ___________TICKET_______________
 ________________________________
 
 
-CUSTOMER ID : 1
-CUSTOMER NAME : f
-CUSTOMER GENDER : s
+CUSTOMER ID : 12
+CUSTOMER NAME : NISARG
+CUSTOMER GENDER : MALE
 __________DESCRIPTION__________: 
 
 DESTINATION :CANADA
