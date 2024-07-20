@@ -1,0 +1,13 @@
+__________ABC AIRLINES__________
+___________TICKET_______________
+
+________________________________
+
+
+CUSTOMER ID : 1
+CUSTOMER NAME : f
+CUSTOMER GENDER : s
+__________DESCRIPTION__________: 
+
+DESTINATION :CANADA
+FLIGHT COST :40000
